@@ -8,7 +8,7 @@ Link do portfólio: https://raphael-lima-portfolio.netlify.app/
  <div>
  <p>Olá, meu nome é Raphael de Sousa Lima, tenho 24 anos, sou estudante de programação desde 2020. Acredito que a chave para se tornar um bom programador é ser apaixonado em resolver problemas, ter muita proatividade, dinamismo e agilidade para se adaptar a diversos cenários e a modelos de soluções novas e mais eficientes, além de claro, desejo de estar sempre aprendendo e evoluindo, estudo contínuo e trocas de conhecimentos com sua equipe e rede. Tenho experiencia de 2 anos como desenvolvedor de software para web.
 
-Possuo foco em desenvolvimento web com JavaScript, ReactJS, TypeScript, NodeJS e SQL, mas estou sempre aberto para novas tecnologias e conhecimentos.</p>
+Possuo foco em desenvolvimento web com JavaScript, ReactJS, TypeScript e NodeJS, mas estou sempre aberto para novas tecnologias e conhecimentos.</p>
 
 </div>
 
@@ -17,7 +17,8 @@ Possuo foco em desenvolvimento web com JavaScript, ReactJS, TypeScript, NodeJS e
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="nodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />                   
+  <img align="center" alt="ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
  
  <br>
