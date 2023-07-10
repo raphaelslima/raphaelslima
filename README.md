@@ -6,19 +6,14 @@ Link do portfólio: https://raphael-lima-portfolio.netlify.app/
 <br/>
 
  <div>
- <p>Olá, meu nome é Raphael de Sousa Lima, tenho 24 anos, sou estudante de programação desde 2020. Acredito que a chave para se tornar um bom programador é ser apaixonado em resolver problemas, ter muita proatividade, dinamismo e agilidade para se adaptar a diversos cenários e a modelos de soluções novas e mais eficientes, além de claro, desejo de estar sempre aprendendo e evoluindo, estudo contínuo e trocas de conhecimentos com sua equipe e rede. Tenho experiencia de 2 anos como desenvolvedor de software para web.
+ <p>Olá, meu nome é Raphael de Sousa Lima, tenho 25 anos, sou estudante de programação a 2 anos. Acredito que a chave para se tornar um bom programador é ser apaixonado em resolver problemas, ter muita proatividade, dinamismo e adaptabilidade a diversos cenários, além de claro, ter sede de conhecimento e ser muito colaborativo, estar sempre disposta a ajudar e ser ajudado, aprendendo e evoluindo junto com seu time.
 
 Possuo foco em desenvolvimento web com JavaScript, ReactJS, TypeScript e NodeJS, mas estou sempre aberto para novas tecnologias e conhecimentos.</p>
 
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+ <img align="center" alt="Minhas habilidade" src="https://skillicons.dev/icons?i=js,typescript,react,redux,css,sass,tailwind,html,express,nestjs,mysql,mongodb,jest,figma," />
 </div>
  
  <br>
