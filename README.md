@@ -3,6 +3,14 @@
 <br/>
 Link do portfólio: https://raphael-lima-portfolio.netlify.app/
 <br/>
+
+### Redes abaixo para contato!
+ 
+<div> 
+  <a href = "mailto:raphaeldesousalm@gmail.com "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/raphaellima98/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
 <br/>
 
  <div>
@@ -12,18 +20,13 @@ Possuo foco em desenvolvimento web com JavaScript, ReactJS, TypeScript e NodeJS,
 
 </div>
 
+<h2> 🛠 &nbsp;Tech Stack</h2>
 <div style="display: inline_block"><br>
- <img align="center" alt="Minhas habilidade" src="https://skillicons.dev/icons?i=js,typescript,react,redux,css,sass,tailwind,html,express,nestjs,mysql,mongodb,jest,figma," />
+ <img align="center" alt="Minhas habilidade" src="https://skillicons.dev/icons?i=js,typescript,react,nextjs,redux,css,sass,tailwind,html,express,nestjs,mysql,mongodb,jest,figma," />
 </div>
- 
- <br>
- 
-  ### Redes abaixo para contato!
- 
-<div> 
-  <a href = "mailto:raphaeldesousalm@gmail.com "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/raphaellima98/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/raphaelslima/raphaelslima/blob/output/github-contribution-grid-snake.svg)
 
+</div> 
+  ![Snake animation](https://github.com/raphaelslima/raphaelslima/blob/output/github-contribution-grid-snake.svg)
 </div>
+ 
+
