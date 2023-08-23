@@ -25,8 +25,6 @@ Possuo foco em desenvolvimento web com JavaScript, ReactJS, TypeScript e NodeJS,
  <img align="center" alt="Minhas habilidade" src="https://skillicons.dev/icons?i=js,typescript,react,nextjs,redux,css,sass,tailwind,html,express,nestjs,mysql,mongodb,jest,figma," />
 </div>
 
-</div> 
-  ![Snake animation](https://github.com/raphaelslima/raphaelslima/blob/output/github-contribution-grid-snake.svg)
-</div>
+
  
 
