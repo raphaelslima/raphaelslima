@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Raphael Lima 😁
+## Bem-vindo(a) ao perfil do Raphael Lima, sou desenvolvedor Front End 😁
 
 
 ### Redes abaixo para contato!
@@ -19,7 +19,7 @@ Tenho foco em desenvolvimento web com JavaScript, ReactJS, TypeScript e NodeJS, 
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <div style="display: inline_block"><br>
- <img align="center" alt="Minhas habilidade" src="https://skillicons.dev/icons?i=js,typescript,react,nextjs,redux,css,tailwind,html,express,mysql,mongodb,jest,figma," />
+ <img align="center" alt="Minhas habilidade" src="https://skillicons.dev/icons?i=js,typescript,react,redux,css,tailwind,html,express,mysql,mongodb,jest,figma," />
 </div>
 
 
