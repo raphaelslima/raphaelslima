@@ -1,8 +1,5 @@
 ## Bem-vindo(a) ao perfil do Raphael Lima 😁
 
-<br/>
-Link do portfólio: https://raphael-lima-portfolio.netlify.app/
-<br/>
 
 ### Redes abaixo para contato!
  
@@ -14,15 +11,15 @@ Link do portfólio: https://raphael-lima-portfolio.netlify.app/
 <br/>
 
  <div>
- <p>Olá, meu nome é Raphael de Sousa Lima, tenho 25 anos, sou estudante de programação a 2 anos. Acredito que a chave para se tornar um bom programador é ser apaixonado em resolver problemas, ter muita proatividade, dinamismo e adaptabilidade a diversos cenários, além de claro, ter sede de conhecimento e ser muito colaborativo, estar sempre disposta a ajudar e ser ajudado, aprendendo e evoluindo junto com seu time.
+ <p>Olá, meu nome é Raphael de Sousa Lima, tenho 25 anos e sou estudante de programação há 1 ano. Acredito que a chave para se tornar um bom programador é ser apaixonado por resolver problemas, ter muita proatividade, dinamismo e adaptabilidade a diversos cenários. Além disso, é fundamental ter sede de conhecimento, ser colaborativo, estar sempre disposto a ajudar e a ser ajudado, aprendendo e evoluindo junto com o time.
 
-Possuo foco em desenvolvimento web com JavaScript, ReactJS, TypeScript e NodeJS, mas estou sempre aberto para novas tecnologias e conhecimentos.</p>
+Tenho foco em desenvolvimento web com JavaScript, ReactJS, TypeScript e NodeJS, mas estou sempre aberto a novas tecnologias e conhecimentos.</p>
 
 </div>
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <div style="display: inline_block"><br>
- <img align="center" alt="Minhas habilidade" src="https://skillicons.dev/icons?i=js,typescript,react,nextjs,redux,css,sass,tailwind,html,express,nestjs,mysql,mongodb,jest,figma," />
+ <img align="center" alt="Minhas habilidade" src="https://skillicons.dev/icons?i=js,typescript,react,nextjs,redux,css,tailwind,html,express,mysql,mongodb,jest,figma," />
 </div>
 
 
